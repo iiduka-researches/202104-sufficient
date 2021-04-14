@@ -1,4 +1,4 @@
-# An implementation of the Sufficient Descent Riemannian conjugate gradient methods
+# An implementation of the sufficient descent Riemannian conjugate gradient methods
 
 This repository provides a solver of [pymanopt](https://github.com/pymanopt/pymanopt),
 which is an implementation of the sufficient descent Riemannian conjugate gradient methods.
